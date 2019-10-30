@@ -88,4 +88,5 @@ secure.brightcove.com
 hlsnetworkten-a.akamaihd.net
 ratings.ten.com.au
 tv-guide.ten.com.au
+tags.tiqcdn.com
 	
