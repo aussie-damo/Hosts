@@ -89,4 +89,4 @@ hlsnetworkten-a.akamaihd.net
 ratings.ten.com.au
 tv-guide.ten.com.au
 tags.tiqcdn.com
-	
+sdk.iad-03.braze.com
