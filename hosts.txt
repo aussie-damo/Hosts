@@ -43,7 +43,7 @@ metrics.brightcove.com
 cf-images.ap-southeast-2.prod.boltdns.net
 manifest.prod.boltdns.net
 7plus-sevennetwork.akamaized.net
-videoservice.swm.digital
+onesignal.comvideoservice.swm.digital
 imageproxy-cdn.swm.digital
 imageproxy-cdn.swm.digital
 snowplow.swm.digital
@@ -93,3 +93,4 @@ sdk.iad-03.braze.com
 dai.google.com
 network10sec-dai-live-v2.akamaized.net
 networkten.122.2o7.net
+onesignal.com
