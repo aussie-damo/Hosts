@@ -90,3 +90,6 @@ ratings.ten.com.au
 tv-guide.ten.com.au
 tags.tiqcdn.com
 sdk.iad-03.braze.com
+dai.google.com
+network10sec-dai-live-v2.akamaized.net
+networkten.122.2o7.net
