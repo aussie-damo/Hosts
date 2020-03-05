@@ -36,7 +36,7 @@ oauth.reddit.com
 www.redditmedia.com
 trends.revcontent.com
 connectivitycheck.gstatic.com
-ads.jeded.com
+
 
 ### 7PLUS ###
 
