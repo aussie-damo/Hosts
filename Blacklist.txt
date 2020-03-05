@@ -1,2 +1,3 @@
 ads.mopub.com.local
 www.fofy.com
+ads.jeded.com
