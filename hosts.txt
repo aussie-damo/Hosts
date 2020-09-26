@@ -36,6 +36,7 @@ oauth.reddit.com
 www.redditmedia.com
 trends.revcontent.com
 connectivitycheck.gstatic.com
+api.leanplum.com
 
 
 ### 7PLUS ###
