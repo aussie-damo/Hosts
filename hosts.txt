@@ -37,6 +37,13 @@ www.redditmedia.com
 trends.revcontent.com
 connectivitycheck.gstatic.com
 api.leanplum.com
+visitor-service-ap-southeast-2.tealiumiq.com
+js.appboycdn.com
+dpm.demdex.net
+logx.optimizely.com
+rt.applovin.com
+bat.bing.com
+secure-au.imrworldwide.com/
 
 
 ### 7PLUS ###
