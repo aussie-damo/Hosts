@@ -106,3 +106,6 @@ networkten.122.2o7.net
 onesignal.com
 visitor-service.tealiumiq.com
 collect-ap-southeast-2.tealiumiq.com
+wd.adcolony.com
+sharewares.co
+www.gididownload.online
