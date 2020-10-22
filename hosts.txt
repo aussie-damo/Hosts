@@ -44,6 +44,7 @@ logx.optimizely.com
 rt.applovin.com
 bat.bing.com
 secure-au.imrworldwide.com/
+pubads.g.doubleclick.net
 
 
 ### 7PLUS ###
