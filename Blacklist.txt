@@ -1,3 +1,4 @@
 ads.mopub.com.local
 www.fofy.com
 ads.jeded.com
+pubads.g.doubleclick.net
