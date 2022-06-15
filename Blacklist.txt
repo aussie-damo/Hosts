@@ -10,3 +10,4 @@ ade.clmbtech.com
 googleads.g.doubleclick.net
 adc3-launch.adcolony.com
 c.amazon-adsystem.com
+events.ads.vungle.com
