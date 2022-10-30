@@ -12,4 +12,5 @@ adc3-launch.adcolony.com
 c.amazon-adsystem.com
 events.ads.vungle.com
 zeromedia.cloud
+cdn-f.adsmoloco.com
 adsmoloco.com
