@@ -14,3 +14,4 @@ events.ads.vungle.com
 zeromedia.cloud
 cdn-f.adsmoloco.com
 adsmoloco.com
+aarki.net
