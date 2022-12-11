@@ -106,3 +106,4 @@ stats.vungle.com
 support.vungle.com
 testing.vungle.com
 testlink.vungle.com
+liftoff.io
