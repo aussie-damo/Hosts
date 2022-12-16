@@ -107,3 +107,4 @@ support.vungle.com
 testing.vungle.com
 testlink.vungle.com
 adx.ads.vungle.com
+liftoff.io
