@@ -222,3 +222,5 @@ androidads4-5.adcolony.com
 androidads4-6.adcolony.com
 api.adcolony.com
 artifactory-proxy.adcolony.xyz
+tpat.api.vungle.com
+Cdn-lb.vungle.com
