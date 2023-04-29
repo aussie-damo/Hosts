@@ -80,6 +80,7 @@ tv-api.9now.com.au
 ### TENPLAY ###
 
 secure.pixelgunserver.com
+pubads.g.doubleclick.net
 c.brightcove.com
 v.tenplay.com.au
 metrics.brightcove.com
