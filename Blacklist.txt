@@ -224,3 +224,5 @@ api.adcolony.com
 artifactory-proxy.adcolony.xyz
 tpat.api.vungle.com
 Cdn-lb.vungle.com
+ms.applovin.com
+rt.applovin.com
